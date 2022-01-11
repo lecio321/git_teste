@@ -1,0 +1,21 @@
+1)git init - criando repositorio na pasta escolhida.
+2)git status - ver o estado do git . 
+3)git add nome_arquivo - adicionando arquivos no git. 
+4)git add * - adicionando todos os aquivos de uma vez.
+5)git commit -m 'comentario sobre o aquivo' - rastreando modificações no aquivo.
+6) git commit -am 'mensagem aqui' - atualiazando o rastreamento do arquivo modificado.
+7)git remote add origin link_do_repositorio_do_projeto - ligando seu repositorio local a sua nuvem remotamente.
+8)git push -u origin master - enviando alterações.
+9)git push - enviando alterações depois da primeira vez.
+10)git clone link_repositorio - clonando repositorio.
+11)git checkout -b nome_branch - criando branches.
+12)git checkout master - voltando ao branch mestre.
+13)git checkout nome_branch - Troca entre os branches.
+14)git push origin nome_branch - enviando branch pra nuvem.
+15)git merge nome_branch - unir branches.
+16)git pull - atualizando repositorio local.
+17)git revert chave_commit - desfazendo commits.
+18)git log - encontrar chave do commit.
+19)cat nome_arquivo.txt - visualiza arquivo.
+20)vim nome_arquivo.extensao - cria e edita arquivo.
+21)echo nome_arquivo.extensao - so cria o arquivo desejado
